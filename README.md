@@ -1,2 +1,2 @@
 # Pandas_Practice
-Repository for pandas practise notebooks and datasets
+Repository for pandas practice notebooks and datasets
